@@ -188,6 +188,7 @@ The backend is deployed using **AWS Elastic Beanstalk**, while the frontend is h
 # 📷 Screenshots
 
 Add screenshots here.
+<img width="1917" height="912" alt="Screenshot 2026-06-26 151516" src="https://github.com/user-attachments/assets/cfb45c6f-9f34-4b95-bcd6-015ce3481185" />
 
 ```
 screenshots/
